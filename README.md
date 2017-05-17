@@ -26,4 +26,4 @@
 微信web开发者工具 v0.9.092300
 
 ### 项目地址：
-https://github.com/zengzhaolin0714/wechat-weapp-mall
+https://github.com/zengzhaolin0714/-/blob/master/README.md
